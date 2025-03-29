@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **Comptia Netwrok+,Security+,Pentest+**
 
 - 💬 Ask me about **Networking,AI Model Trainer,Security+**
+  
+- 🤖 Currently working on AI model training.
 
 - 📫 How to reach me **salamandsalam786@gmail.com**
 
